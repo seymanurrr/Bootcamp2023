@@ -42,7 +42,7 @@ Stajı Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar
 
 
 ## Juriye Not
-1. Sprint bizlerin finalleriyle çakışmasından dolayı zaman sıkıntısı yaşanmış olup User Story'ler product backlog'ların içine yazılmıştır.
+1.Sprint bizlerin finalleriyle çakışmasından dolayı zaman sıkıntısı yaşanmış olup User Story'ler product backlog'ların içine yazılmıştır.
 
 
 
