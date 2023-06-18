@@ -21,7 +21,7 @@ Takım Flutter 56
 
 ## Ürün Açıklaması
 
-Stajı Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar ve  yazılım alanında kendini geliştirmiş ama bunu tecrübeye dökememiş kişilerin staj bulabileceği bir uygulama olmakla birlikte bir network ağı da oluşturmaktadır. Aynı zamanda staj yapılan firmalar stajyerlerin olumlu ve olumsuz yönlerini değerlendirerek uygulamayı kullanan kişilere feedback de sağlayacaktır. 
+Staj Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar ve  yazılım alanında kendini geliştirmiş ama bunu tecrübeye dökememiş kişilerin staj bulabileceği bir uygulama olmakla birlikte bir network ağı da oluşturmaktadır. Aynı zamanda staj yapılan firmalar stajyerlerin olumlu ve olumsuz yönlerini değerlendirerek uygulamayı kullanan kişilere feedback de sağlayacaktır. 
 
 
 - **Uygulama birincil fonksiyonu**:  Uygulamayı kullanacak olan 18-26 yaş aralığındaki gençlere staj bulma olanağı sağlamak.
