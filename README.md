@@ -59,7 +59,7 @@ Stajı Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](ProjectManagement/Sprint1Documents/Sprint 1.PNG) 
+![Backlog 1](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/Sprint%201.PNG) 
 
 
 - **Ürün Durumu**: Henüz araştırma aşamasında olduğundan dolayı ürüne ait screenshotlar bu sprint için bulunmamaktadır.
