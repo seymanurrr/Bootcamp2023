@@ -30,15 +30,15 @@ Stajı Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar
 
 ## Ürün Özellikleri
 
--  Şuan için local olarak bir şehirde veri girişi yapılacak olan uygulama kullanıcıların en az 3 ay olacak şekilde staj ile tecrübe kazanmasını sağlamak
--  Stajlara ek olarak bir network ortamı yaratmak 
+-  Şuan için local olarak bir şehirde veri girişi yapılacak olan uygulama kullanıcıların en az 3 ay olacak şekilde staj ile tecrübe kazanmasını sağlamak,
+-  Stajlara ek olarak bir network ortamı yaratmak. 
   
 
 ## Hedef Kitle
 
-- Bilgisayar Mühendislik öğrencileri
-- Yazılımcılar
-- 18-26 yaş arası yazılım alanında kendini geliştirmek isteyen herkes
+- Bilgisayar Mühendislik öğrencileri,
+- Yazılımcılar,
+- 18-26 yaş arası yazılım alanında kendini geliştirmek isteyen herkes,
 
 
 ## Juriye Not
