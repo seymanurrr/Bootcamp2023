@@ -42,7 +42,7 @@ Staj Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar v
 
 
 ## Juriye Not
-1.Sprint bizlerin finalleriyle çakışmasından dolayı zaman sıkıntısı yaşanmış olup User Story'ler product backlog'ların içine yazılmıştır.
+
 
 
 
@@ -50,7 +50,9 @@ Staj Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar v
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+- **Sprint Notları**: Sprint bizlerin finalleriyle çakışmasından dolayı zaman sıkıntısı yaşanmış olup User Story'ler product backlog'ların içine yazılmıştır.Product backlog item'lara tıklandığında hikayelerin detayları okunabilir
+
+-**Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
