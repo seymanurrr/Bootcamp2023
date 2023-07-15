@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp2023.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keep_daily.iml" filepath="$PROJECT_DIR$/keep_daily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/keep_daily_android.iml" filepath="$PROJECT_DIR$/android/keep_daily_android.iml" />
     </modules>
   </component>
 </project>
