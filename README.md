@@ -58,7 +58,7 @@ Staj Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar v
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır:
 - [Sprint 1 Daily Scrum Chats] (https://github.com/seymanurrr/Bootcamp2023/commit/525397a39b0286e0efb861119c31da6a5639b382)
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -121,8 +121,11 @@ Alınan kararlar:
 # Sprint 3
 
 - **Sprint Notları** 1.Sprint'de yapılması planlanan uygulama To Do List uygulaması olarak değiştirilmiştir. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
 - **Sprint board update**:
 
 ![Backlog 1]
