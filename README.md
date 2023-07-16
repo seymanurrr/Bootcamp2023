@@ -13,7 +13,7 @@ Takım Flutter 56
 
 ## Ürün İsmi
 
---Staj Bul--
+--To Do List--
 
 ## Product Backlog URL
 
@@ -21,27 +21,26 @@ Takım Flutter 56
 
 ## Ürün Açıklaması
 
-Staj Bul uygulaması; Bilgisayar mühendisliği öğrencileri, yazılımcılar ve  yazılım alanında kendini geliştirmiş ama bunu tecrübeye dökememiş kişilerin staj bulabileceği bir uygulama olmakla birlikte bir network ağı da oluşturmaktadır. Aynı zamanda staj yapılan firmalar stajyerlerin olumlu ve olumsuz yönlerini değerlendirerek uygulamayı kullanan kişilere feedback de sağlayacaktır. 
+To Do List Uygulaması; Kullandığı cihazda not tutup bunu takip etmek isten kişiler için tasarlandı.
 
 
-- **Uygulama birincil fonksiyonu**:  Uygulamayı kullanacak olan 18-26 yaş aralığındaki gençlere staj bulma olanağı sağlamak.
+- **Uygulama birincil fonksiyonu**:  Telefonunda not tutmak isteyen herkes uygulamayı kullanabilir.
 
-- **Uygulama ikincil fonksiyonu**: Yazılım alanında kendini geliştirmiş olan kişiler ile firmaları buluşturarak sirküle edilebilir, nitekli, bir istihdam ortamı yaratmak.
+- **Uygulama ikincil fonksiyonu**: Basit bir şekilde uygulama içinde zorluk çekmek istemeyen kişiler için.
 
 ## Ürün Özellikleri
 
--  Şuan için local olarak bir şehirde veri girişi yapılacak olan uygulama kullanıcıların en az 3 ay olacak şekilde staj ile tecrübe kazanmasını sağlamak,
--  Stajlara ek olarak bir network ortamı yaratmak. 
+- Basit bir arayüzle not tutmak,
   
 
 ## Hedef Kitle
 
-- Bilgisayar Mühendislik öğrencileri,
-- Yazılımcılar,
-- 18-26 yaş arası yazılım alanında kendini geliştirmek isteyen herkes,
+- Not tutmak isteyen herkes,
 
 
 ## Juriye Not
+
+3. Sprint'te ürün değişikliğine gidilmiştir.
 
 
 
