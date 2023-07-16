@@ -1,4 +1,4 @@
-# **Takım İsmi**
+![sprint 3](https://github.com/seymanurrr/Bootcamp2023/assets/120125702/de669943-d929-4fab-96f9-e1732381e695)# **Takım İsmi**
 
 Takım Flutter 56
 
@@ -127,6 +127,11 @@ Alınan kararlar:
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [ProjectManagement/DAİLY SCRUM; 3. SPİNT .docx](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/DA%C4%B0LY%20SCRUM%3B%203.%20SP%C4%B0NT%20.docx)
 
 - **Sprint board update**:
+
+![sprint 3](https://github.com/seymanurrr/Bootcamp2023/assets/120125702/6d64a33a-7c4e-48ec-a10a-450ea49259af)
+
+
+
 
 ![Backlog 1]
 
