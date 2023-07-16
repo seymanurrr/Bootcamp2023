@@ -139,7 +139,7 @@ Alınan kararlar:
 - **Sprint Review**:  Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. Sprint Review katılımcıları: Mahmut Semih Güner, Ali Karçak, Tuba Aydoğdu, Şeymanur Alakel, Burcu Orhan
 
 
-- **Sprint Retrospective:** akım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine ve zaman yönetimin daha iyi olmasına  vurgu yapılmıştır.
+- **Sprint Retrospective:** Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine ve zaman yönetimin daha iyi olmasına  vurgu yapılmıştır.
 
   - 
 
