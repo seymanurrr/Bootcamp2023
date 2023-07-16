@@ -90,7 +90,7 @@ Sprint Review katılımcıları: Burcu Orhan, Mahmut Semih Orhan
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 0 Puan
 
 - **Daily Scrum**:
 
@@ -120,10 +120,9 @@ Alınan kararlar:
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
-
-
-- **Daily Scrum**: 
+- **Sprint Notları** 1.Sprint'de yapılması planlanan uygulama To Do List uygulaması olarak değiştirilmiştir. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+  - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 - **Sprint board update**:
 
 ![Backlog 1]
@@ -134,10 +133,10 @@ Alınan kararlar:
   
 
 
-- **Sprint Review**: 
+- **Sprint Review**:  Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. Sprint Review katılımcıları: Mahmut Semih Güner, Ali Karçak, Tuba Aydoğdu, Şeymanur Alakel, Burcu Orhan
 
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective:** akım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine ve zaman yönetimin daha iyi olmasına  vurgu yapılmıştır.
 
   - 
 
