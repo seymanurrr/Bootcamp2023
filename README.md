@@ -1,4 +1,4 @@
-![sprint 3](https://github.com/seymanurrr/Bootcamp2023/assets/120125702/de669943-d929-4fab-96f9-e1732381e695)# **Takım İsmi**
+ **Takım İsmi**
 
 Takım Flutter 56
 
