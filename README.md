@@ -124,7 +124,7 @@ Alınan kararlar:
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır: ProjectManagement/DAİLY SCRUM; 3. SPİNT .docx
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [ProjectManagement/DAİLY SCRUM; 3. SPİNT .docx](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/DA%C4%B0LY%20SCRUM%3B%203.%20SP%C4%B0NT%20.docx)
 
 - **Sprint board update**:
 
