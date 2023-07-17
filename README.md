@@ -137,6 +137,8 @@ Alınan kararlar:
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+  https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg
+  
   
 
 
