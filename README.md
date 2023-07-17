@@ -98,7 +98,7 @@ Sprint Review katılımcıları: Burcu Orhan, Mahmut Semih Orhan
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-[Flutter Team 56 ]https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg
+
 
 
  
@@ -121,8 +121,11 @@ Alınan kararlar:
 
 - **Sprint Notları** 1.Sprint'de yapılması planlanan uygulama To Do List uygulaması olarak değiştirilmiştir. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
-
+- **Sprint içinde tamamlanması tahmin edilen puan**: 240 puan
+  
+- **Puan tamamlama mantığı**:İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+  
+  
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word,pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [ProjectManagement/DAİLY SCRUM; 3. SPİNT .docx](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/DA%C4%B0LY%20SCRUM%3B%203.%20SP%C4%B0NT%20.docx)
 
 - **Sprint board update**:
