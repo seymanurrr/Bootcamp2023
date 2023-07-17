@@ -140,7 +140,7 @@ Alınan kararlar:
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Backlog 1]https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg
+  ![Backlog 1]ProjectManagement/WhatsApp Image 2023-07-16 at 23.34.44.jpeg
   
   
 
