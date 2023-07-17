@@ -62,13 +62,6 @@ To Do List Uygulaması; Kullandığı cihazda not tutup bunu takip etmek isten k
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-   ![Screenshot 1](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg)
-  
-  ![Screenshot 2](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43%20(1).jpeg)
-
-  ![Screenshot 3](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44%20(1).jpeg)
-
-   ![Screenshot 4](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44.jpeg)
 
   
   
@@ -145,12 +138,19 @@ Alınan kararlar:
 
 
 
-![Backlog 1]
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-[Flutter Team 56 Miro Backlog Board]https://github.com/seymanurrr/Bootcamp2023/commit/a3a2ce117331ac73d1f865af1870c80c88bb6d87
+
+ ![Screenshot 1](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg)
+  
+  ![Screenshot 2](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43%20(1).jpeg)
+
+  ![Screenshot 3](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44%20(1).jpeg)
+
+   ![Screenshot 4](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44.jpeg)
+
   
   
 
