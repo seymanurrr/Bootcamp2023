@@ -140,7 +140,7 @@ Alınan kararlar:
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ProjectManagement/WhatsApp Image 2023-07-16 at 23.34.44.jpeg
+ ProjectManagement/WhatsApp Image 2023-07-16 at 23.34.43 (1).jpeg
   
   
 
