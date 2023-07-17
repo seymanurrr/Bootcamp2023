@@ -61,7 +61,17 @@ To Do List Uygulaması; Kullandığı cihazda not tutup bunu takip etmek isten k
 - [Sprint 1 Daily Scrum Chats] (https://github.com/seymanurrr/Bootcamp2023/commit/525397a39b0286e0efb861119c31da6a5639b382)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/Sprint1Documents/Sprint%201.PNG) 
+
+   ![Screenshot 1](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43.jpeg)
+  
+  ![Screenshot 2](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.43%20(1).jpeg)
+
+  ![Screenshot 3](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44%20(1).jpeg)
+
+   ![Screenshot 4](https://github.com/seymanurrr/Bootcamp2023/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-16%20at%2023.34.44.jpeg)
+
+  
+  
 
 
 - **Ürün Durumu**: Henüz araştırma aşamasında olduğundan dolayı ürüne ait screenshotlar bu sprint için bulunmamaktadır.
