@@ -140,7 +140,7 @@ Alınan kararlar:
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ProjectManagement/WhatsApp Image 2023-07-16 at 23.34.43 (1).jpeg
+[Flutter Team 56 Miro Backlog Board]https://github.com/seymanurrr/Bootcamp2023/commit/a3a2ce117331ac73d1f865af1870c80c88bb6d87
   
   
 
